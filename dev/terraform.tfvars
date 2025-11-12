@@ -3,8 +3,13 @@ rgdev = {
     name     = "rg6"
     location = "West Europe"
   }
-
+ rg2 = {
+    name     = "rg7"
+    location = "West Europe"
+  }
 }
+
+
 
 vnet_dev = {
   vnet1 = {
