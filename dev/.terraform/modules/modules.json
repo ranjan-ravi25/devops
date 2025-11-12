@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"linux_virtual_machine","Source":"../module/vmdev","Dir":"../module/vmdev"},{"Key":"public_ip","Source":"../module/public_ip","Dir":"../module/public_ip"},{"Key":"resource_group","Source":"../module/resource_group","Dir":"../module/resource_group"},{"Key":"virtual_network","Source":"../module/vnet","Dir":"../module/Vnet"}]}
